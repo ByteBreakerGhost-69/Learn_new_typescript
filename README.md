@@ -12,7 +12,7 @@
 | 8 | Belajar_interfaces_typescript.js | [Buka Materi]( https://github.com/ByteBreakerGhost-69/Learn_new_typescript/blob/main/Study%20_%20typescript%2FBelajar%20_%20interfaces%20_%20typescript.ts)
 | 9 | Belajar_read_only & optiona_typescript.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/Learn_new_typescript/blob/main/Study%20_%20typescript%2FBelajar%20_%20read-only%20%26%20optional%20_%20typescript.ts)
 | 10 | Belajar_classes_typescript.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/Learn_new_typescript/blob/main/Study%20_%20typescript/Belajar%20_%20classes%20_%20typescript.ts)
-| 10 | Belajar_abstarct_classes__typescript.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/Learn_new_typescript/blob/main/Study%20_%20typescript/Belajar%20_%20abstract%20_%20classes%20_%20typescript.ts)
-| 10 | Belajar_generict_typescript.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/Learn_new_typescript/blob/main/Study%20_%20typescript%2FBelajar%20_%20generics%20_%20typescript.ts)
-| 10 | Belajar_type_nerrowing_typescript.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/Learn_new_typescript/blob/main/Study%20_%20typescript%2FBelajar%20_%20type%20_%20nerrowing%20_%20typescript.ts)
+| 11 | Belajar_abstarct_classes__typescript.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/Learn_new_typescript/blob/main/Study%20_%20typescript/Belajar%20_%20abstract%20_%20classes%20_%20typescript.ts)
+| 12 | Belajar_generict_typescript.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/Learn_new_typescript/blob/main/Study%20_%20typescript%2FBelajar%20_%20generics%20_%20typescript.ts)
+| 13 | Belajar_type_nerrowing_typescript.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/Learn_new_typescript/blob/main/Study%20_%20typescript%2FBelajar%20_%20type%20_%20nerrowing%20_%20typescript.ts)
 
